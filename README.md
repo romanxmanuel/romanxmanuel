@@ -1,5 +1,9 @@
 # Roman Manuel
 
+<p align="center">
+  <img src="./assets/photo-of-roman.png" alt="Photo of Roman Manuel" width="220" />
+</p>
+
 UCF student building practical AI + data products.
 
 I focus on shipping useful tools that combine full-stack engineering, SQL, and automation.
