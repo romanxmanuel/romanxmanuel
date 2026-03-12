@@ -4,33 +4,46 @@
   <img src="./assets/photo-of-roman.png" alt="Photo of Roman Manuel" width="220" />
 </p>
 
-UCF student building practical AI + data products.
+<p align="center">
+  UCF Information Technology student building practical AI + data products.
+</p>
 
-I focus on shipping useful tools that combine full-stack engineering, SQL, and automation.
+<p align="center">
+  Full-stack engineering • SQL-first backends • Automation workflows
+</p>
+
+## About Me
+
+I build useful, real-world tools with a focus on clean product UX, strong data foundations, and fast iteration.  
+My current focus is becoming a high-impact analyst/engineer through hands-on projects.
 
 ## Currently Building
 
-- **SQL Playground**: mobile-friendly SQL practice app with schema browser + ERD visualization
-- **Roman Command Center**: personal productivity analytics dashboard
-- **Physics Study Bot**: interactive helper for UCF Physics II prep
-- **Career OS**: local-first job-search operating system with AI-assisted workflows
+- **[SQL Playground](https://github.com/romanxmanuel/SQL-playground)**  
+  Mobile-friendly SQL practice app with schema browser, ERD visualization, and safe query execution.  
+  Live: [sql-playground-ten.vercel.app](https://sql-playground-ten.vercel.app)
 
-## Tech I Use
+- **[Roman Command Center](https://github.com/romanxmanuel/roman-command-center)**  
+  Personal productivity and analytics dashboard using Node.js, Express, and SQLite.  
+  Live: [roman-command-center.vercel.app](https://roman-command-center.vercel.app)
 
-- TypeScript, JavaScript, Node.js, Next.js
-- SQLite, libSQL/Turso, raw SQL
-- Vercel, REST APIs, full-stack web apps
+- **[Physics Study Bot](https://github.com/romanxmanuel/Physics-Study-Bot)**  
+  Interactive study assistant concept for UCF Physics II coursework.
 
-## Goals for 2026
+- **[Jessica Career OS](https://github.com/romanxmanuel/jessica-career-os)**  
+  Local-first job search assistant with fit scoring, packet generation, and workflow automation.  
+  Live: [jessica-career-os.vercel.app](https://jessica-career-os.vercel.app)
+
+## Tech Stack
+
+- **Languages:** TypeScript, JavaScript, SQL
+- **Frameworks:** Next.js, Node.js, Express
+- **Data:** SQLite, libSQL/Turso, raw SQL
+- **Tooling:** Vercel, REST APIs, Git/GitHub
+
+## 2026 Goals
 
 - Deepen backend and database engineering skills
-- Ship more polished student-focused tools
-- Land software internships and collaborate on impactful products
-
-## Featured Projects
-
-- [SQL Playground](https://github.com/romanxmanuel/SQL-playground)
-- [Roman Command Center](https://github.com/romanxmanuel/roman-command-center)
-- [Physics Study Bot](https://github.com/romanxmanuel/Physics-Study-Bot)
-- [Jessica Career OS](https://github.com/romanxmanuel/jessica-career-os)
+- Ship polished student-focused tools with measurable outcomes
+- Earn software/data internships and contribute to impactful teams
 
