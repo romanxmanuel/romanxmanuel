@@ -1,4 +1,4 @@
-# Roman X. Manuel
+# Roman Manuel
 
 UCF student building practical AI + data products.
 
@@ -29,3 +29,4 @@ I focus on shipping useful tools that combine full-stack engineering, SQL, and a
 - [Roman Command Center](https://github.com/romanxmanuel/roman-command-center)
 - [Physics Study Bot](https://github.com/romanxmanuel/Physics-Study-Bot)
 - [Jessica Career OS](https://github.com/romanxmanuel/jessica-career-os)
+
