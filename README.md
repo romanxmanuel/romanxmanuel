@@ -47,3 +47,12 @@ My current focus is becoming a high-impact analyst/engineer through hands-on pro
 - Ship polished student-focused tools with measurable outcomes
 - Earn software/data internships and contribute to impactful teams
 
+## Showcase Materials
+
+- **[Interactive Showcase](./showcase/site/index.html)**  
+  Standalone recruiter-facing showcase site for my main repos.  
+  Live: [repo-showcase-vercel.vercel.app](https://repo-showcase-vercel.vercel.app)
+
+- **[Showcase Docs](./showcase/docs/roman-product-strategy-roadmap.md)**  
+  Product roadmap and portfolio strategy notes for future feature planning.
+
