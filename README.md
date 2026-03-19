@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  UCF Information Technology student building practical AI + data products.
+  UCF Information Technology student building practical software.
 </p>
 
 <p align="center">
