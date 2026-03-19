@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  UCF Information Technology student building practical software.
+  Information Technology student from the University of Central Florida.
 </p>
 
 <p align="center">
